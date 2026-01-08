@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  Maito  (muutos päähaarassa)
+=======
+ Maito (muutos testi-haarassa)
+>>>>>>> testi-haara
  Sokeri
  Leippää
  Jugurtti
