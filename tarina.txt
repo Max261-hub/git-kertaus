@@ -1,5 +1,9 @@
 #Satumainen tarina Aaposta!
+<<<<<<< HEAD
 # Tämä on paikallisesti kirjoitettu versio tarinasta #
+=======
+# Tämä on GitHubissa kirjoitettu versio tarinasta #
+>>>>>>> b194e8094d92d11ffbe31aa6b8969542a1cc4b0d
 =====================================================================
 Pieni poika nimeltä Aapo löysi metsästä vanhan, sammaloituneen avaimen.
 Se ei sopinut mihinkään hänen kotonaan, mutta kun hän palasi metsään seuraavana iltana, avain alkoi hehkua himmeää sinistä valoa.
